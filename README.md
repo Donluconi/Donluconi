@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Donluconi
+- 👋 Hi, I’m Gabriel Luconi
 - 👀 I’m interested in mobile programming
 - 🌱 I’m currently learning programming logic
 - 💞️ I’m looking to collaborate on development
