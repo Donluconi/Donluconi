@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Luconi
 - 👀 I’m interested in mobile programming
-- 🌱 I’m currently learning programming logic
+- 🌱 Here i share my Android projects
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me gabriel_luconi@hotmail.com
 
