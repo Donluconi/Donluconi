@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile programming
 - 🌱 Here i share my Android projects
 - 💞️ I’m looking to collaborate on development
-- 📫 How to reach me gabriel_luconi@hotmail.com
+- 📫 How to reach me Linkedin https://www.linkedin.com/in/gabriel-luconi/
 
 <!---
 Donluconi/Donluconi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
