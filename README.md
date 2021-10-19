@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Luconi
-- 👀 I’m interested in mobile programming
+- 👀 I’m interested in Mobile Programming or Trainee opportunity.
 - 🌱 Here i share my Android projects
 - ✏️ I’m looking to collaborate on development
 - 📫 How to reach me Linkedin https://www.linkedin.com/in/gabriel-luconi/
