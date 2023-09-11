@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Gabriel Luconi and Analyst at Deloitte
-- 👀 I’m interested in Transfer Pricing and Mobile Programming
+- 👋 Hi, I'm Gabriel Luconi and Consultant Tax at Deloitte
+- 👀 I’m interested in Cybersecurity, Mobile Programming and Transfer Pricing
 - 🌱 Here i share my Android projects
 - ✏️ I’m looking to collaborate on development
 - 📫 How to reach me Linkedin https://www.linkedin.com/in/gabriel-luconi/
